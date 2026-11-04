@@ -1,0 +1,24 @@
+{
+  "name": "ativ-branches",
+  "version": "1.0.0",
+  "description": "Nessa atividade de GCSI, irei implementar conteúdos aprendidos na disciplina de Padrões de Projeto.  O escopo será um serviço de aluguel de imóveis, como AirBnB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josecardozodev/ativ-branches.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josecardozodev/ativ-branches/issues"
+  },
+  "homepage": "https://github.com/josecardozodev/ativ-branches#readme",
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
